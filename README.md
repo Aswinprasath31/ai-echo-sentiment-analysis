@@ -1,1 +1,5 @@
-# ai-echo-sentiment-analysis
+streamlit
+scikit-learn
+pandas
+nltk
+joblib
